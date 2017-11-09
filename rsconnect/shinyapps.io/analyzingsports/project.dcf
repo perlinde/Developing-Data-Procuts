@@ -1,0 +1,12 @@
+name: project
+title:
+username:
+account: analyzingsports
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 233504
+bundleId: 1067351
+url: https://analyzingsports.shinyapps.io/project/
+when: 1510250421.17049
+asMultiple: FALSE
+asStatic: FALSE
